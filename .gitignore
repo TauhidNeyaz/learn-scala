@@ -47,3 +47,5 @@ build/
 .bsp/
 
 /target
+/src/main/fnProgrammingAdvance/.bsp
+/src/main/fnProgrammingAdvance/.scala-build
