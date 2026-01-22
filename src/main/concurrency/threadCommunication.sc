@@ -126,5 +126,67 @@ def producerConsumerStream() : Unit = {
   producer.start()
 }
 
-producerConsumerStream()
+//producerConsumerStream()
 
+
+/*
+
+    multiple producer and multiple consumer on a same buffer
+    producer1 -> [a, b, c] -> consumer1
+    prodicur2----^       ^----consumer2
+
+ */
+
+class Consumer(id : Int, buffer: mutable.Queue[Int]) extends Thread {
+  override def run() : Unit = {
+    val random = new Random()
+
+    while (true) {
+      buffer.synchronized {
+        while (buffer.isEmpty) {
+          println(s"[consumer $id] buffer empty, waiting ... ")
+          buffer.wait()
+        }
+
+        val x = buffer.dequeue()
+        println(s"[consumer $id] I got a value  " + x)
+
+        buffer.notify()
+      }
+
+      Thread.sleep(random.nextInt(500))
+    }
+  }
+}
+
+class Producer(id : Int, buffer: mutable.Queue[Int], maxSize : Int) extends Thread {
+  override def run(): Unit = {
+    val random = new Random()
+    var value = 1
+    while (true) {
+      buffer.synchronized {
+        while (buffer.size == maxSize) {
+          println(s"[producer $id] Buffer full , waiting ... ")
+          buffer.wait()
+        }
+
+        println(s"[producer $id] Producing ... " + value)
+        buffer.enqueue(value)
+        value += 1
+
+        buffer.notify()
+      }
+    }
+  }
+}
+
+def multiProducerConsumer(n : Int) : Unit = {
+  val buffer : mutable.Queue[Int] = new mutable.Queue[Int]
+  val maxSize = 3
+
+  (1 to n).foreach(i => new Consumer(i, buffer).start())
+  (1 to n).foreach(i => new Producer(i, buffer, maxSize).start())
+
+}
+
+multiProducerConsumer(3)
