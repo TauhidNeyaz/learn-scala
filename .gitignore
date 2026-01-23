@@ -47,7 +47,5 @@ build/
 .bsp/
 
 /target
-/src/main/fnProgrammingAdvance/.bsp
-/src/main/fnProgrammingAdvance/.scala-build
-/src/main/concurrency/.scala-build
-/src/main/concurrency/.bsp
+**/.bsp/
+**/.scala-build/
