@@ -1,4 +1,5 @@
-
+//> using scala "2.13.12"
+//> using dep "com.typesafe.akka:akka-actor_2.13:2.8.8"
 
 import akka.actor.{Actor, ActorSystem, Props}
 
@@ -6,23 +7,17 @@ import akka.actor.{Actor, ActorSystem, Props}
 val actorSystem = ActorSystem("firstActorSystem")
 println(actorSystem.name)
 
-// part 2 - create actor
-
-class WordCoundActor extends Actor {
-  var totalWords = 0
-
-  def receive: PartialFunction[Any, Unit] = {
+// part 2 - actor
+class WordCountActor extends Actor {
+  def receive: Receive = {
     case message: String =>
-      println(s"[actor] I have received a message $message")
-      totalWords += message.split(" ").length
-    case msg => println(s"I cannot understand ${msg.toString}")
+      println(s"[actor] I have received: $message")
   }
 }
 
 // part 3 - instantiate actor
-// val wordCounter = new WordCoundActor   -> It's not work like this
+val wordCounter =
+  actorSystem.actorOf(Props[WordCountActor], "wordCounter")
 
-val wordCounter = actorSystem.actorOf(Props[WordCoundActor], "wordCounter")
-
-// part 4 - communicate !
+// part 4 - communicate
 wordCounter ! "Hello Scala"
