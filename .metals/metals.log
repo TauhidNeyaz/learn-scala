@@ -1,0 +1,196 @@
+2026.02.02 11:00:00 INFO  Started: Metals version 1.6.5 in folders '/Users/tellius/Desktop/learn-scala' for client Visual Studio Code 1.107.1.
+2026.02.02 11:00:00 INFO  Memory monitor started
+2026.02.02 11:00:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.02 11:00:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/actor/actorLogging.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/actor/actorLogging.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:17 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/actor/actorLogging.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:17 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/actor/actorLogging.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:45 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/actor/actorLogging.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:45 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/basicSpecs.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:45 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/basicSpecs.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:45 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/basicSpecs.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:57 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:57 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:57 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:00:57 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:00:57 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/basicSpecs.sc. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:57 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:57 WARN  Could not find semantic tokens for: file:///Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:00:58 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:58 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:58 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:58 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:58 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:58 WARN  Could not find semantic tokens for: file:///Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:00:58 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:59 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:58 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:59 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:59 WARN  Could not find semantic tokens for: file:///Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:00:59 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:00:59 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:00 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:00 WARN  Could not find semantic tokens for: file:///Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:00 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:00 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:00 INFO  Created report: Optional[file:///Users/tellius/Desktop/learn-scala/file:/Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala]
+2026.02.02 11:01:00 INFO  expected identifier; obtained eof (full report at: "/Users/tellius/Desktop/learn-scala/.metals/.reports/metals/2026-02-02/r_scala-toplevel-mtags_11-01-00-752.md")
+2026.02.02 11:01:00 WARN  Could not find semantic tokens for: file:///Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:00 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:02 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:02 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:02 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:02 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:02 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:04 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:07 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:06 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:07 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:07 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:07 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:07 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:08 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:08 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:07 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:07 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:10 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:10 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:10 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:10 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:11 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:11 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:17 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:17 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:19 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:19 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:19 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:19 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:20 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:20 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:20 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:20 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:20 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Feb 02, 2026 11:01:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 211
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:22 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:22 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:22 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:21 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:23 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:23 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:22 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:23 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:23 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:28 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:28 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:28 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:29 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:29 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:29 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:29 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:01:30 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:01:30 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:01 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala
+2026.02.02 11:02:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:01 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala
+2026.02.02 11:02:01 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:01 WARN  Could not find semantic tokens for: file:///Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala
+2026.02.02 11:02:03 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:02:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:03 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:05 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:07 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala
+2026.02.02 11:02:08 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:08 WARN  Could not find semantic tokens for: file:///Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala
+2026.02.02 11:02:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:09 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:10 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala
+2026.02.02 11:02:10 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:24 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala
+2026.02.02 11:02:24 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:24 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:02:28 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:03:16 WARN  no build target for: /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala
+2026.02.02 11:03:16 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:03:50 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/scala/HTTP/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:03:57 INFO  no build target found for /Users/tellius/Desktop/learn-scala/src/main/akka-actor/tests/test.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.02 11:04:48 INFO  Shutting down server
+2026.02.02 11:04:48 INFO  Memory monitor stopped
+2026.02.02 11:04:48 INFO  shutting down Metals
+2026.02.02 11:04:48 INFO  Exiting server
